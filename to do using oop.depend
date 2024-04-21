@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1713673545 source:e:\cs_50\new folder\to do using oop\main.cpp
+	<ToDolist.h>
+
+1713649982 source:e:\cs_50\new folder\to do using oop\src\df.cpp
+	"df.h"
+
+1713649982 e:\cs_50\new folder\to do using oop\include\df.h
+
+1713680225 source:e:\cs_50\new folder\to do using oop\src\todofunctionality.cpp
+	"TodoFunctionality.h"
+	<vector>
+	<iostream>
+	<limits>
+
+1713675059 e:\cs_50\new folder\to do using oop\include\todofunctionality.h
+	<vector>
+	<iostream>
+
+1713679768 e:\cs_50\new folder\to do using oop\include\todolist.h
+	<TodoFunctionality.h>
+	<vector>
+
+1713679962 source:e:\cs_50\new folder\to do using oop\src\todolist.cpp
+	"ToDolist.h"
+	"iostream"
+
